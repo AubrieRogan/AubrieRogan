@@ -18,6 +18,6 @@
 - <b>App Design Prompt</b>
   - [Ukulele Tuning App Concept](https://github.com/aubrierogan/uketune-concept)
 - <b>Website Design</b>
-  - [Spotify Home Page Layout Refresh](https://github.com/aubrierogan/configure-ad)
+  - [Spotify Home Page Layout Refresh](https://github.com/aubrierogan/spotify-refresh)
   
 

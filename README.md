@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aubrie, an <a href="https://linkedin.com/in/Josh">IT Professional!
+<h1>Hi! I'm Aubrie, an <a href="https://linkedin.com/in/Josh">IT Professional!
 
 <h2> Information Technology Projects:</h2>
 
